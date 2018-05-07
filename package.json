@@ -1,0 +1,26 @@
+{
+  "name": "simple-chat",
+  "version": "1.0.0",
+  "description": "A Simple Chat with Express and Socket.IO ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "chat, express, socket.io"
+  },
+  "keywords": [
+    "chat",
+    "express",
+    "socket.io"
+  ],
+  "author": "andreszl",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4",
+    "nodemon": "^1.12.1",
+    "socket.io": "^2.0.3"
+  }
+}
